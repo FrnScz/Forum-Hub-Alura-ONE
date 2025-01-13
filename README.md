@@ -1,5 +1,9 @@
 # Bem vindo(a) ao Forumhub ONE 📚
 
+<p align="center">  
+    <img src="https://github.com/FrnScz/Forum-Hub-Alura-ONE/blob/master/img/Badge-Spring.png" width="300px" alt="Badge Spring Oracle Next Education">  
+</p>  
+
 ### Sobre o projeto 🖥️
 O **Forumhub** é um projeto/Desafio do programa ONE desenvolvido para gerenciar um fórum de estudos, focando na implementação de toda a parte de back-end utilizando API REST e o framework Spring Boot.
 
