@@ -42,6 +42,7 @@ O objetivo deste projeto é implementar uma API REST com as seguintes funcionali
 - **🗃️ Spring Data JPA**
 - **🚀 Flyway Migration**
 - **💾 Banco de Dados MySQL**
+- **🛠️ Postman**
 
 ---
 <p align="center">  
